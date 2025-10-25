@@ -1,0 +1,1 @@
+this is the unswers of diffrent challenges of data science 
